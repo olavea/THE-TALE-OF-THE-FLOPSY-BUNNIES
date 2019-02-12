@@ -6,6 +6,7 @@ import Image from "../components/image";
 
 import SEO from "../components/seo";
 import { rhythm } from "../utils/typography";
+import logo from "./uniparrot4.png";
 
 class BlogIndex extends React.Component {
   render() {
@@ -33,7 +34,13 @@ class BlogIndex extends React.Component {
                     to="/PUNKY%20DUNK%20AND%20THE%20GOLD%20FISH/"
                     rel="next"
                   >
-                    2 →
+                    <img
+                      style={{
+                        width: "133px"
+                      }}
+                      src={logo}
+                      alt="Geff Logo"
+                    />
                   </Link>
                 }
               </li>
