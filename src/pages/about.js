@@ -48,6 +48,13 @@ class NotFoundPage extends React.Component {
 
           <p>Jeg øver på Gatsby med å lage barnebøker</p>
           <p>See map of Potters House (Fresh)</p>
+          <p>
+            <a href="https://www.telegraph.co.uk/books/what-to-read/the-strange-life-of-beatrix-potter--how-rabbits-and-mushrooms-se/">
+              {" "}
+              The strange life of Beatrix Potter — how rabbits (and mushrooms)
+              set her free, by Matthew Dennison 28 JULY 2016 in the Telegraph
+            </a>
+          </p>
         </div>
 
         <p>
