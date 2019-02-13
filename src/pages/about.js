@@ -34,9 +34,9 @@ class NotFoundPage extends React.Component {
               <li>A Norwegian translation.</li>
               <li>
                 Go to{" "}
-                <a href="https://github.com/olavea/PUNKY-DUNK-AND-THE-GOLD-FISH-2">
+                <a href="https://github.com/olavea/The-Story-of-Miss-Moppet-1">
                   {" "}
-                  https://github.com/olavea/PUNKY-DUNK-AND-THE-GOLD-FISH-2
+                  https://github.com/olavea/The-Story-of-Miss-Moppet-1
                 </a>
               </li>
             </ul>
