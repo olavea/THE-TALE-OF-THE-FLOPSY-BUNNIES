@@ -30,10 +30,7 @@ class BlogIndex extends React.Component {
               <li>{<Link to="/" rel="prev" />}</li>
               <li>
                 {
-                  <Link
-                    to="/PUNKY%20DUNK%20AND%20THE%20GOLD%20FISH/"
-                    rel="next"
-                  >
+                  <Link to="/2/" rel="next">
                     <img
                       style={{
                         width: "133px"

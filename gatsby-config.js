@@ -1,11 +1,12 @@
 module.exports = {
   siteMetadata: {
-    title: ``,
-    author: `Ola Vea`,
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    title: `The Story of Miss Moppet`,
+    author: `Beatrix Potter`,
+    description: `The Story of Miss Moppet, by
+    Beatrix Potter`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
     social: {
-      twitter: `kylemathews`
+      twitter: `olaholstvea`
     }
   },
   plugins: [
@@ -63,7 +64,7 @@ module.exports = {
         background_color: `#ffffff`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `content/assets/uniParrot-icon3.png`
+        icon: `content/assets/Young_Beatrix_Potter.jpg`
       }
     },
     `gatsby-plugin-offline`,

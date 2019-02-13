@@ -12,14 +12,17 @@ class NotFoundPage extends React.Component {
     return (
       <Layout location={this.props.location} title={siteTitle}>
         <SEO
-          title="Project Gutenberg's Punky Dunk and the Gold Fish, by
-        Anonymous"
+          title="The Story of Miss Moppet, by
+          Beatrix Potter"
         />
-        <h1>About Punky Dunk and the Gold Fish</h1>
+        <h1>About The Story of Miss Moppet</h1>
         <div>
           <p>
-            End of Project Gutenberg's Punky Dunk and the Gold Fish, by
-            Anonymous.
+            End of the Project Gutenberg EBook of The Story of Miss Moppet, by
+            Beatrix Potter This eBook is for the use of anyone anywhere at no
+            cost and with almost no restrictions whatsoever. You may copy it,
+            give it away or re-use it under the terms of the Project Gutenberg
+            License included with this eBook or online at www.gutenberg.net
           </p>
 
           <h1>About this OlaBook</h1>
@@ -27,9 +30,6 @@ class NotFoundPage extends React.Component {
             {" "}
             Issues you can resolve:
             <ul>
-              <li>A button for page shifting.</li>
-              <li>A smaller logo at high left hand corner.</li>
-              <li>More illustrations.</li>
               <li>An audio file with a reading of the story.</li>
               <li>A Norwegian translation.</li>
               <li>
@@ -42,30 +42,32 @@ class NotFoundPage extends React.Component {
             </ul>
           </p>
           <h1>
-            About this OlaBook, Gutenberg, Parrot Books Store, Scott Tolinski
-            and Gatsby
+            About this OlaBook, Gutenberg, Parrot Ship Books, Beatrix Potter,
+            Scott Tolinski and Gatsby
           </h1>
 
           <p>Jeg øver på Gatsby med å lage barnebøker</p>
+          <p>See map of Potters House (Fresh)</p>
         </div>
 
         <p>
           <Link to="/"> Go to the front page </Link>
         </p>
         <p>
-          <Link to="/posts/second-post"> or go back to page two </Link>
+          <Link to="/2/"> or go back to page two </Link>
         </p>
+        <p />
 
         <p>
           This and all associated files of various formats will be found in:
-          <a href="http://www.gutenberg.org/files/19537/">
+          <a href="http://www.gutenberg.org/ebooks/14848">
             {" "}
-            http://www.gutenberg.org/files/19537/
+            http://www.gutenberg.org/files/14848/
           </a>
         </p>
         <p>
-          Produced by David Newman, Janet Blenkinship and the Online Distributed
-          Proofreading Team at{" "}
+          Produced by Robert Cicconetti, Melissa Er-Raqabi and the Online
+          Distributed Proofreading Team at{" "}
           <a href="http://www.pgdp.net"> http://www.pgdp.net</a> .
         </p>
         <p>
