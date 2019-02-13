@@ -54,6 +54,10 @@ class NotFoundPage extends React.Component {
               The strange life of Beatrix Potter — how rabbits (and mushrooms)
               set her free, by Matthew Dennison 28 JULY 2016 in the Telegraph
             </a>
+            <a href="https://www.amazon.com/kindle-dbs/entity/author/B006XVP5O6">
+              {" "}
+              The books of Beatrix Potter on Amazon kindle
+            </a>
           </p>
         </div>
 
