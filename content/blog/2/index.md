@@ -18,8 +18,8 @@ date: "2015-05-01T22:12:03.284Z"
 
 Thank you for finding our [Gatsby site](https://www.gatsbyjs.org/tutorial/).
 
-Published in the Lilly Lab of: Benedicte, Ola, Lillian & CO. In the living room of the littlest white wood house at Rodeløkka, downtown Oslo, Norway, Europe, Earth between ___ and ___ (photo from insta) (See map here)
+Published in the Lilly Lab of: Benedicte, Ola, Lillian & CO. In the living room of the littlest white wood house at Rodeløkka, downtown Oslo, Norway, Europe, Earth.
 
 All rights reserved for the kids by Project Gutenberg read more on our about page.
 
-Go back to [the Front page](https://lucid-mestorf-57e000.netlify.com/) or click the parrot above to start reading.
+Go back to [the Front page](/) or click the parrot above to start reading.

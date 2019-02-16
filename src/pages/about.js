@@ -12,13 +12,14 @@ class NotFoundPage extends React.Component {
     return (
       <Layout location={this.props.location} title={siteTitle}>
         <SEO
-          title="The Story of Miss Moppet, by
+          title="THE TALE OF
+          BENJAMIN BUNNY, by
           Beatrix Potter"
         />
-        <h1>About The Story of Miss Moppet</h1>
+        <h1>About THE TALE OF BENJAMIN BUNNY</h1>
         <div>
           <p>
-            End of the Project Gutenberg EBook of The Story of Miss Moppet, by
+            End of the Project Gutenberg EBook of THE TALE OF BENJAMIN BUNNY, by
             Beatrix Potter This eBook is for the use of anyone anywhere at no
             cost and with almost no restrictions whatsoever. You may copy it,
             give it away or re-use it under the terms of the Project Gutenberg
@@ -34,9 +35,9 @@ class NotFoundPage extends React.Component {
               <li>A Norwegian translation.</li>
               <li>
                 Go to{" "}
-                <a href="https://github.com/olavea/The-Story-of-Miss-Moppet-1">
+                <a href="https://github.com/olavea/Benjamin-Bunny">
                   {" "}
-                  https://github.com/olavea/The-Story-of-Miss-Moppet-1
+                  https://github.com/olavea/Benjamin-Bunny
                 </a>
               </li>
             </ul>
@@ -45,9 +46,10 @@ class NotFoundPage extends React.Component {
             About this OlaBook, Gutenberg, Parrot Ship Books, Beatrix Potter,
             Scott Tolinski and Gatsby
           </h1>
+          <p>
+            I practice coding with Gatsby by children's books into Olabooks.
+          </p>
 
-          <p>Jeg øver på Gatsby med å lage barnebøker</p>
-          <p>See map of Potters House (Fresh)</p>
           <p>
             <a href="https://www.telegraph.co.uk/books/what-to-read/the-strange-life-of-beatrix-potter--how-rabbits-and-mushrooms-se/">
               {" "}
@@ -71,9 +73,9 @@ class NotFoundPage extends React.Component {
 
         <p>
           This and all associated files of various formats will be found in:
-          <a href="http://www.gutenberg.org/files/14407/">
+          <a href="http://www.gutenberg.net/1/4/4/0/14407/">
             {" "}
-            http://www.gutenberg.org/files/14407/
+            http://www.gutenberg.net/1/4/4/0/14407/
           </a>
         </p>
         <p>

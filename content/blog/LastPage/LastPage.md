@@ -1,6 +1,6 @@
 ---
 title: "Last Page"
-date: "2016-04-29T22:40:32.169Z"
+date: "2017-06-29T22:40:32.169Z"
 ---
 
 ###Thank you for reading our Gatsby site. Now go build a Gatsby site yourself.
