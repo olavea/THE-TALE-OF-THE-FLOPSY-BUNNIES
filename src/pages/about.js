@@ -71,9 +71,9 @@ class NotFoundPage extends React.Component {
 
         <p>
           This and all associated files of various formats will be found in:
-          <a href="http://www.gutenberg.org/ebooks/14848">
+          <a href="http://www.gutenberg.org/files/14407/">
             {" "}
-            http://www.gutenberg.org/files/14848/
+            http://www.gutenberg.org/files/14407/
           </a>
         </p>
         <p>

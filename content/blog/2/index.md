@@ -1,24 +1,19 @@
 ---
-title: "THE STORY OF MISS MOPPET"
+title: "THE TALE OF BENJAMIN BUNNY"
 date: "2015-05-01T22:12:03.284Z"
 ---
-#THE STORY OF
-#MISS MOPPET
-##BY
-#BEATRIX POTTER
+#THE TALE OF BENJAMIN BUNNY
+##BY BEATRIX POTTER
 
-Author of
-The Tale of Peter Rabbit for example
+###AUTHOR OF "THE TAIL OF PETER RABBIT" FOR EXAMPLE
 
-![MISS MOPPET with mouse](./m06.jpg)
+![Rabitt](./04.jpg)
 
-##THIS LITTLE STORY IS TOLD
+##FOR THE CHILDREN OF SAWREY
 
-##AND THE LITTLE PICTURES WERE DRAWN
+##FROM
 
-##FOR A GOOD LITTLE CHILD NAMED:
-
-##"-------------------------"
+##OLD MR. BUNNY
 
 
 Thank you for finding our [Gatsby site](https://www.gatsbyjs.org/tutorial/).
